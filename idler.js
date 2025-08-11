@@ -17,4 +17,3 @@
 
 // Start the bot
 require("./src/controller.js").start();
-require('./keep-alive.js').start();
