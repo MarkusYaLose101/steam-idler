@@ -1,1 +1,2 @@
-//Comment: Please provide all accounts to idle in this format, one per line: username:password:shared_secret  (shared_secret is optional)
+CherryBlossomXP1:Gl1tt3rBabe!2025
+cardfarmer002:MarkusKing130_Bot
